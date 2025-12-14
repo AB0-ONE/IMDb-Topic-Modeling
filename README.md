@@ -84,5 +84,4 @@ This project demonstrates the effectiveness of LDA in extracting meaningful them
 
 ## Author
 
-**Sandra Lee**  
-Course Project – Topic Modeling
+**Yun Chia Lee**  
